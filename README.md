@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parth-s-mahale&label=Profile%20views&color=0e75b6&style=flat" alt="parth-s-mahale" /> </p>
 
-- 🌱 I’m currently learning **Java From Zero-To-First Job, Javascript-DOM, Python-WebDev, Figma, React.js, Linux Administration**
+- 🌱 I’m currently learning **Java From Zero-To-First Job, Javascript-DOM**
 
-- 💬 Ask me about **Java, Javascript, Python, React.js, Figma, React.js, Linux Administration**
+- 💬 Ask me about **Java, Javascript, Linux Administration**
 
 - 📧 How to reach me **parthmahale05@gmail.com**
 
