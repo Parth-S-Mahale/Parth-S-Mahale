@@ -5,13 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parth-s-mahale&label=Profile%20views&color=0e75b6&style=flat" alt="parth-s-mahale" /> </p>
 
-- 🌱 I’m currently learning :**Java, Javascript-DOM**
+- 🌱 I’m currently learning : **Java, Javascript-DOM**
 
-- 💬 Ask me about :**Java, Javascript, Linux Administration**
+- 💬 Ask me about : **Java, Javascript, Linux Administration**
 
-- 📧 How to reach me :**parthmahale05@gmail.com**
+- 📧 How to reach me : **parthmahale05@gmail.com**
 
-- ⚡ Fun fact :**I Think I am addicted to COFFEE‧☕ 
+- ⚡ Fun fact : **I Think I am addicted to COFFEE‧☕ 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
