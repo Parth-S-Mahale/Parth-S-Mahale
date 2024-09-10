@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parth-s-mahale&label=Profile%20views&color=0e75b6&style=flat" alt="parth-s-mahale" /> </p>
 
-- 🌱 I’m currently learning **Java From Zero-To-First Job, Javascript-DOM**
+- 🌱 I’m currently learning **Java, Javascript-DOM**
 
 - 💬 Ask me about **Java, Javascript, Linux Administration**
 
