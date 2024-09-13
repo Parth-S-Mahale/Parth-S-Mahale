@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Parth Mahale</h1>
 <h3 align="center">A Passionate Full Stack Developer From VIIT College Of Engineering Pune, Maharashtra</h3>
 
-<img align="right" alt="coding" width="500" src="https://i.pinimg.com/originals/79/9e/0d/799e0d7779f6ea6c3a89885ff60c55af.gif"> 
+<img align="right" alt="coding" width="300" src="https://i.pinimg.com/originals/79/9e/0d/799e0d7779f6ea6c3a89885ff60c55af.gif"> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parth-s-mahale&label=Profile%20views&color=0e75b6&style=flat" alt="parth-s-mahale" /> </p>
 
