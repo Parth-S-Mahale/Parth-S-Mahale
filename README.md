@@ -16,7 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.hackerrank.com/profile/parth_22311364" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="parth sanjay mahale" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/Parth_Sanjay_Mahale/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="parth_sanjay_mahale" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/Parth_05_Mahale/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="parth_sanjay_mahale" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/parth-mahale-50b71428a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="parth mahale" height="30" width="40" /></a>
 <a href="https://instagram.com/parthmahale_5167" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="parthmahale_5167" height="30" width="40" /></a>
 </p>
