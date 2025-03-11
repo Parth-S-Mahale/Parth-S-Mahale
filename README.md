@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Parth Sanjay Mahale</h1>
 <h3 align="center">A Passionate Software Developer From VIIT College Of Engineering Pune, Maharashtra</h3>
 
-- 🌱 I’m currently learning **C++ | Java**
+- 🌱 I’m currently learning **C++ , Java**
 
-- 💬 Ask me about **Linux | C++ | Java**
+- 💬 Ask me about **Linux , C++ , Java**
 
 - 📫 How to reach me **parthmahale05@gmail.com**
 
