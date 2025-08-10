@@ -30,6 +30,12 @@
 
 ###
 
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
+
 <picture>
   <svg width="50" height="50" viewBox="0 0 100 100">
       <circle cx="50" cy="50" r="40" fill="yellow"/>
