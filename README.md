@@ -10,6 +10,12 @@
 <div align="left">
   <img src="https://skillicons.dev/icons?i=c" height="60" alt="c logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=java" height="60" alt="c logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=python" height="60" alt="c logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=js" height="60" alt="js logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
@@ -21,10 +27,6 @@
   <img src="https://skillicons.dev/icons?i=react" height="60" alt="react.js logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=express" height="60" alt="express.js logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="60" alt="firebase logo"  />
   <img width="12" />
 </div>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
