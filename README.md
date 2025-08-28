@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Rust, React.js<br>💬 Ask me about Linux , C , Rust, React.js<br>📫 How to reach me parthmahale05@gmail.com<br>⚡ Fun fact I Think I am addicted to COFFEE‧☕
+🌱 I’m currently learning Python, React.js<br>💬 Ask me about C, Python, React.js<br>📫 How to reach me parthmahale05@gmail.com<br>⚡ Fun fact I Think I am addicted to COFFEE‧☕
 
 
 ## 🌐 Socials:
