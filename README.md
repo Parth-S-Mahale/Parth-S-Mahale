@@ -1,4 +1,4 @@
-# 💫 About Me:
+# A Python Developer from VIIT College of Engineering, Pune:
 🌱 I’m currently learning Python, React.js<br>💬 Ask me about C, Python, React.js<br>📫 How to reach me parthmahale05@gmail.com<br>⚡ Fun fact I Think I am addicted to COFFEE‧☕
 
 
