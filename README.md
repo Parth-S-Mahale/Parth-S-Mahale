@@ -20,9 +20,9 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=express" height="60" alt="express logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="60" alt="react.js logo"  />
+  <img src="https://skillicons.dev/icons?i=node.js" height="60" alt="node logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=node" height="60" alt="node logo"  />
+  <img src="https://skillicons.dev/icons?i=react" height="60" alt="react.js logo"  />
   <img width="12" />
 </div>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
