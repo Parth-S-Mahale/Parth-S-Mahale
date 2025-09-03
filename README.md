@@ -12,17 +12,17 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=java" height="60" alt="java logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=python" height="60" alt="python logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=js" height="60" alt="js logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="60" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=express" height="60" alt="express logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=react" height="60" alt="react.js logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=python" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=django" height="60" alt="django logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=flask" height="60" alt="flask logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgresql" height="60" alt="postgresql logo"  />
+  <img src="https://skillicons.dev/icons?i=node" height="60" alt="node logo"  />
   <img width="12" />
 </div>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
