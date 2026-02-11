@@ -24,9 +24,11 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=docker" height="60" alt="docker logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=deeplearning" height="60" alt="deeplearning logo"  />
+  <img src="https://skillicons.dev/icons?i=ai" height="60" alt="ai logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=genai" height="60" alt="genai logo"  />
+  <img src="https://skillicons.dev/icons?i=llm" height="60" alt="llm logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=rag" height="60" alt="rag logo"  />
   <img width="12" />
 </div>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
