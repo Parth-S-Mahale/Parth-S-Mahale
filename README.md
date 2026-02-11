@@ -24,7 +24,9 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=docker" height="60" alt="docker logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=jenkins" height="60" alt="jenkins logo"  />
+  <img src="https://skillicons.dev/icons?i=deeplearning" height="60" alt="deeplearning logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=genai" height="60" alt="genai logo"  />
   <img width="12" />
 </div>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
