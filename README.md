@@ -24,4 +24,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=docker" height="60" alt="docker logo"  />
   <img width="12" />
+ <img src="https://skillicons.dev/icons?i=Inngest" height="60" alt="docker logo"  />
+  <img width="12" />
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
