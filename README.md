@@ -28,7 +28,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=prisma" height="60" alt="prisma logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=neondb" height="60" alt="neondb logo"  />
+  <img src="https://skillicons.dev/icons?i=neonDB" height="60" alt="neonDB logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=docker" height="60" alt="docker logo"  />
   <img width="12" />
