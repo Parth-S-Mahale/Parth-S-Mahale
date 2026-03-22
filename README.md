@@ -6,7 +6,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/parth-mahale) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:parthmahale5167@gmail.com) 
 
 ###
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=linux,tailwind,js,mongodb,expressjs,nodejs,typescript,nextjs,prisma,docker,python,tensorflow,aws" />
   </a>
