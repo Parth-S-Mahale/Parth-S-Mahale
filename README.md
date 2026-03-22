@@ -12,6 +12,8 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=python" height="60" alt="python logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tensorflow" height="60" alt="tensorflow logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=js" height="60" alt="js logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="60" alt="mongodb logo"  />
@@ -21,6 +23,12 @@
   <img src="https://skillicons.dev/icons?i=react" height="60" alt="react.js logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="node logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=prima" height="60" alt="prisma logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=neondb" height="60" alt="neondb logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=docker" height="60" alt="docker logo"  />
   <img width="12" />
