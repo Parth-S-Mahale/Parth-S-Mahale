@@ -1,5 +1,5 @@
 # A Computer Engineering Student from VIIT College of Engineering, Pune:
-🌱 I’m currently learning MERN stack development<br>💬 Ask me about Node.js, Express.js, Python<br>📫 How to reach me parthmahale05@gmail.com<br>⚡ Fun fact I Think I am addicted to COFFEE‧☕
+🌱 I’m currently learning and working on LangChain and RAG systems<br>💬 Ask me about Node.js, Express.js, Python<br>📫 How to reach me parthmahale05@gmail.com<br>⚡ Fun fact I Think I am addicted to COFFEE‧☕
 
 
 ## 🌐 Socials:
