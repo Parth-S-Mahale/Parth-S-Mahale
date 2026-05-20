@@ -9,10 +9,7 @@
 ###
 <p align="left">
   <a href="https://github.com/thuongtruong109/icoziv">
-    <img src="https://i.icoziv.workers.dev/icons?i=nodejs,docker,git" />
-  </a>
-  <a href="https://github.com/thuongtruong109/icoziv">
-    <img src="https://i.icoziv.workers.dev/icons?i=python,numpy,pandas,jupyter,tensorflow,pytorch,scikitlearn,mlflow,fastapi,streamlit,sql,postgresql,azure,gcp" />
+    <img src="https://i.icoziv.workers.dev/icons?i=,git,mongodb,expressjs,reactjs,nodejs,prsima,docker,python,numpy,pandas,tensorflow,scikitlearn,streamlit,sql,postgresql,azure,gcp" />
   </a>
 </p>
 
