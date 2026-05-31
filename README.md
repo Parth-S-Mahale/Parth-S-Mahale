@@ -9,7 +9,7 @@
 ###
 <p align="left">
   <a href="https://github.com/thuongtruong109/icoziv">
-    <img src="https://i.icoziv.workers.dev/icons?i=,git,mongodb,expressjs,reactjs,nodejs,prsima,docker,python,numpy,pandas,tensorflow,scikitlearn,streamlit,sql,postgresql,azure,gcp" />
+    <img src="https://i.icoziv.workers.dev/icons?i=linux, git, python, js, nodejs, expressjs, reactjs, sql, postgresql, mongodb, prsima, docker,  aws" />
   </a>
 </p>
 
