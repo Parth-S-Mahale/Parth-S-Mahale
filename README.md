@@ -9,7 +9,7 @@
 ###
 <p align="left">
   <a href="https://github.com/thuongtruong109/icoziv">
-    <img src="https://i.icoziv.workers.dev/icons?i=linux,git,python,js,typescript,nodejs,expressjs,reactjs,sql,postgresql,mongodb,prsima,docker,postman,aws" />
+    <img src="https://i.icoziv.workers.dev/icons?i=git-dark,linux-dark,java-dark,spring-dark,springboot-dark,springsecurity,springai,reactjs-dark,javascript,nodejs-dark,expressjs-dark,mongodb,sql-dark,amazonewebservices-dark,docker" />
   </a>
 </p>
 
