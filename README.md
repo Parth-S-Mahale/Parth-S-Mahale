@@ -1,5 +1,5 @@
-# A Computer Engineering Student from VIIT College of Engineering, Pune:
-🌱 I’m currently working on projects<br>💬 Ask me about Node.js, Express.js, Python<br>📫 How to reach me parthmahale05@gmail.com<br>⚡ Fun fact I Think I am addicted to COFFEE‧☕
+# Aspiring Full Stack Java Developer:
+🌱 I’m currently working on projects<br>💬 Ask me about Java, Node.js, Express.js<br>📫 How to reach me parthmahale05@gmail.com<br>⚡ Fun fact I Think I am addicted to COFFEE‧☕
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parth-s-mahale&label=Profile%20views&color=0e75b6&style=flat" alt="parth-s-mahale" /> </p>
 
