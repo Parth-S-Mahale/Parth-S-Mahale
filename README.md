@@ -6,15 +6,10 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/parth-mahale) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:parthmahale5167@gmail.com) 
 
-###
-<p align="left">
-  <a href="https://github.com/thuongtruong109/icoziv">
-    ## Version Control
-    <img src="https://i.icoziv.workers.dev/icons?i=git-dark,github-dark,linux-dark" /><br><br>
-    ## Web Development
-    <img src="https://i.icoziv.workers.dev/icons?i=html-dark,css-dark,javascript,tailwindcss-dark,nodejs-dark,expressjs-dark,mongodb-dark,reactjs-dark"/><br><br>
-    ## Java Development
-    <img src="https://i.icoziv.workers.dev/icons?i=python,java-dark,maven,postgresql-dark,hibernate-dark,spring-dark,springboot-dark,springsecurity,springai,amazonewebservices-dark,docker" />
-  </a>
-</p>
+### Version Control
+<img src="https://i.icoziv.workers.dev/icons?i=git-dark,github-dark,linux-dark" /><br><br>
+### Web Development
+<img src="https://i.icoziv.workers.dev/icons?i=html-dark,css-dark,javascript,tailwindcss-dark,nodejs-dark,expressjs-dark,mongodb-dark,reactjs-dark"/><br><br>
+### Java Development
+<img src="https://i.icoziv.workers.dev/icons?i=python,java-dark,maven,postgresql-dark,hibernate-dark,spring-dark,springboot-dark,springsecurity,springai,amazonewebservices-dark,docker" />
 
