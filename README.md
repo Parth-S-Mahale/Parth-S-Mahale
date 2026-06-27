@@ -9,11 +9,11 @@
 ###
 <p align="left">
   <a href="https://github.com/thuongtruong109/icoziv">
-    <b>Version Control</b><br>
+    ## Version Control
     <img src="https://i.icoziv.workers.dev/icons?i=git-dark,github-dark,linux-dark" /><br><br>
-    <b>Web Development</b><br>
+    ## Web Development
     <img src="https://i.icoziv.workers.dev/icons?i=html-dark,css-dark,javascript,tailwindcss-dark,nodejs-dark,expressjs-dark,mongodb-dark,reactjs-dark"/><br><br>
-    <b>Java Development</b><br>
+    ## Java Development
     <img src="https://i.icoziv.workers.dev/icons?i=python,java-dark,maven,postgresql-dark,hibernate-dark,spring-dark,springboot-dark,springsecurity,springai,amazonewebservices-dark,docker" />
   </a>
 </p>
