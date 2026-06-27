@@ -9,6 +9,6 @@
 ### Version Control
 <img src="https://i.icoziv.workers.dev/icons?i=git-dark,github-dark,linux-dark" /><br>
 ### Web Development
-<img src="https://i.icoziv.workers.dev/icons?i=html-dark,css-dark,javascript,tailwindcss-dark,nodejs-dark,expressjs-dark,mongodb-dark,reactjs-dark"/><br>
+<img src="https://i.icoziv.workers.dev/icons?i=html-dark,css-dark,javascript,tailwindcss-dark,nodejs-dark,expressjs-dark,mongodb,reactjs-dark"/><br>
 ### Java Development
 <img src="https://i.icoziv.workers.dev/icons?i=python,java-dark,maven,postgresql-dark,hibernate-dark,spring-dark,springboot-dark,springsecurity,springai,amazonewebservices-dark,docker" />
