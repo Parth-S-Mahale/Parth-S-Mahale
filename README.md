@@ -1,5 +1,5 @@
-<h1 align="center">Full Stack Java Developer</h1>
-🌱 I’m currently working on projects<br>💬 Ask me about Java, Node.js, Express.js<br>📫 How to reach me parthmahale05@gmail.com<br>⚡ Fun fact I Think I am addicted to COFFEE‧☕
+<h1 align="center">Aspiring AI Engneer</h1>
+🌱 I’m currently working on projects<br>💬 Ask me about Java, Python, LLMs<br>📫 How to reach me parthmahale05@gmail.com<br>⚡ Fun fact I learn & adapt new technologies easily
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parth-s-mahale&label=Profile%20views&color=0e75b6&style=flat" alt="parth-s-mahale" /> </p>
 
@@ -10,5 +10,5 @@
 <img src="https://i.icoziv.workers.dev/icons?i=git-dark,github-dark,linux-dark" /><br>
 ### Web Development
 <img src="https://i.icoziv.workers.dev/icons?i=html-dark,css-dark,javascript,tailwindcss-dark,nodejs-dark,expressjs-dark,mongodb,reactjs-dark"/><br>
-### Java Development
-<img src="https://i.icoziv.workers.dev/icons?i=python,java-dark,maven,postgresql-dark,hibernate-dark,spring-dark,springboot-dark,springsecurity,springai,amazonewebservices-dark,docker" />
+### AI Engineer
+<img src="https://i.icoziv.workers.dev/icons?i=python-dark,jupyter-light,anaconda-dark,numpy-dark,pandas-dark,sqlite,scikitlearn-dark,pytorch-dark,fastapi,uvicorn,openai,huggingface-dark,ollama-dark,langchain-dark,gradio-dark" />
