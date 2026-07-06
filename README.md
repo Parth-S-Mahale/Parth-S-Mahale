@@ -9,6 +9,6 @@
 ### Version Control
 <img src="https://i.icoziv.workers.dev/icons?i=git-dark,github-dark,linux-dark" /><br>
 ### Web Development
-<img src="https://i.icoziv.workers.dev/icons?i=html-dark,css-dark,javascript,tailwindcss-dark,nodejs-dark,expressjs-dark,mongodb,reactjs-dark"/><br>
+<img src="https://i.icoziv.workers.dev/icons?i=html,css,javascript,tailwindcss-dark,nodejs-dark,expressjs-dark,reactjs-dark,mongodb,postgresql,prisma"/><br>
 ### AI Engineer
 <img src="https://i.icoziv.workers.dev/icons?i=python-dark,jupyter-light,anaconda-dark,numpy-dark,pandas-dark,sqlite,scikitlearn-dark,pytorch-dark,fastapi,uvicorn,openai,huggingface-dark,ollama-dark,langchain-dark,gradio-dark" />
