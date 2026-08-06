@@ -1,4 +1,4 @@
-<h1 align="center">Aspiring AI Engneer</h1>
+<h1 align="center">AI Engineer</h1>
 🌱 I’m currently working on projects<br>💬 Ask me about Java, Python, LLMs<br>📫 How to reach me parthmahale05@gmail.com<br>⚡ Fun fact I learn & adapt new technologies easily
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parth-s-mahale&label=Profile%20views&color=0e75b6&style=flat" alt="parth-s-mahale" /> </p>
